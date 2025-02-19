@@ -61,15 +61,13 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Mohammad Jalili.</h2>;
-  const three = <h3 className="big-heading">I provide security solutions for organizations..</h3>;
+  const three = <h3 className="big-heading">Defending the digital world.</h3>;
   const four = (
     <>
       <p>
-      A technology enthusiast with years of experience specializing in systems security, threat
-      detection/prevention, and infrastructure hardening. Proven track record in designing and
-      implementing comprehensive security measures across large-scale environments, with expertise
-      in compliance frameworks, and security monitoring.
-      Passionate about cybersecurity and continuously improving security posture.
+      A technology enthusiast with more than 10 years of experience with a deep focus 
+      on securing infrastructures, analyzing threats, and strengthening defenses. 
+      My mission is to protect critical systems and ensure resilience in an evolving cyber landscape.
       </p>
     </>
   );
